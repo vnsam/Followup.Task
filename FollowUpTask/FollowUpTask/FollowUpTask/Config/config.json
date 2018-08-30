@@ -1,0 +1,158 @@
+{
+    "categories":[
+                  {
+                  "index":0,
+                  "name":"Grocery",
+                  "type":"Detail",
+                  "imagePath": "groceries"
+                  },
+                  {
+                  "index":1,
+                  "name":"Fruits & Vegetables",
+                  "type":"Detail",
+                  "imagePath": "fruit-salad"
+                  },
+                  {
+                  "index":2,
+                  "name":"Never Run Out Sale",
+                  "type":"Detail",
+                  "imagePath": "discount"
+                  },
+                  {
+                  "index":3,
+                  "name":"More",
+                  "type":"Reveal",
+                  "imagePath": "more-button"
+                  },
+                  {
+                  "index":4,
+                  "name":"Friday Treats",
+                  "type":"Detail",
+                  "imagePath": "friday-treat"
+                  },
+                  {
+                  "index":5,
+                  "name":"Electronics",
+                  "type":"Detail",
+                  "imagePath": "electronics"
+                  },
+                  {
+                  "index":6,
+                  "name":"Bakery & Sweets",
+                  "type":"Detail",
+                  "imagePath": "backery-sweets"
+                  },
+                  {
+                  "index":7,
+                  "name":"Beauty & Wellness",
+                  "type":"Detail",
+                  "imagePath": "beauty-wellness"
+                  },
+                  {
+                  "index":8,
+                  "name":"Ice Creams",
+                  "type":"Detail",
+                  "imagePath": "ice-cream"
+                  },
+                  {
+                  "index":9,
+                  "name":"Meats & Seafood",
+                  "type":"Detail",
+                  "imagePath": "meat-seafood"
+                  },
+                  {
+                  "index":10,
+                  "name":"Baby & Kids",
+                  "type":"Detail",
+                  "imagePath": "baby-kids"
+                  },
+                  {
+                  "index":11,
+                  "name":"Large Appliances",
+                  "type":"Detail",
+                  "imagePath": "large-appliances"
+                  },
+                  {
+                  "index":12,
+                  "name":"Organic & Gourmet",
+                  "type":"Detail",
+                  "imagePath": "organic-gourmet"
+                  },
+                  {
+                  "index":13,
+                  "name":"Home & Office Needs",
+                  "type":"Detail",
+                  "imagePath": "home-office-needs"
+                  },
+                  {
+                  "index":14,
+                  "name":"Pet Care",
+                  "type":"Detail",
+                  "imagePath": "pet-care"
+                  },
+                  {
+                  "index":15,
+                  "name":"Home Electricals",
+                  "type":"Detail",
+                  "imagePath": "home-electricals"
+                  },
+                  {
+                  "index":16,
+                  "name":"Flowers",
+                  "type":"Detail",
+                  "imagePath": "flowers"
+                  },
+                  {
+                  "index":17,
+                  "name":"Sports & Fitness",
+                  "type":"Detail",
+                  "imagePath": "sports-fitness"
+                  },
+                  {
+                  "index":18,
+                  "name":"Specials",
+                  "type":"Detail",
+                  "imagePath": "specials"
+                  }
+                  ],
+    "offers": [
+              {
+              "index": 0,
+              "name": "offer",
+              "imagePath": "offer-0"
+              },
+              {
+              "index": 1,
+              "name": "offer",
+              "imagePath": "offer-1"
+              },
+              {
+              "index": 2,
+              "name": "offer",
+              "imagePath": "offer-2"
+              }
+              ],
+    "products": [
+                 {
+                 "index": 0,
+                 "name": "Pastries",
+                 "imagePath": "cake-in-plate-0",
+                 "legendImagePath": "friday-treat",
+                 "deliveryTime": "Delivery in 60 mins"
+                 },
+                 {
+                 "index": 1,
+                 "name": "Donuts",
+                 "imagePath": "cake-in-plate-1",
+                 "legendImagePath": "backery-sweets",
+                 "deliveryTime": "Delivery in 124 mins"
+                 },
+                 {
+                 "index": 2,
+                 "name": "Desserts",
+                 "imagePath": "cake-in-plate-2",
+                 "legendImagePath": "ice-cream",
+                 "deliveryTime": "Delivery in 75 mins"
+                 }
+                 ]
+}
